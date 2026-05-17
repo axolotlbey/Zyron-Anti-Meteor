@@ -1,6 +1,6 @@
 # 🛡️ Zyron Anti Meteor
 
-A highly advanced, lightweight, and automated security solution for **Paper/Spigot 1.21.1** servers. **Zyron Anti Meteor** is specifically engineered to detect, block, and instantly punish malicious incoming connections originating from the **Meteor Client** and similar Fabric-based cheat networks before they can compromise your server.
+A highly advanced, lightweight, and automated security solution for **Paper/Spigot 1.21.11** servers. **Zyron Anti Meteor** is specifically engineered to detect, block, and instantly punish malicious incoming connections originating from the **Meteor Client** and similar Fabric-based cheat networks before they can compromise your server.
 
 ---
 
