@@ -10,7 +10,7 @@ A highly advanced, lightweight, and automated security solution for **Paper/Spig
 * **Smart Duration Parser:** Supports flexible ban durations out-of-the-box (e.g., `7d` for days, `12h` for hours, `30m` for minutes).
 * **Fully Configurable:** Every message, ban reason, alert broadcast, and punishment action can be completely customized inside `config.yml`.
 * **Built-in Advanced Ban System:** Comes with standalone administrative commands (`/zyronban`, `/zyronunban`, `/zyroncheck`) that log configurations safely.
-* **Optimized for Paper 1.21.1:** Developed on Java 21 with asynchronous handling where necessary to keep your server's Main Thread running smoothly with 20 TPS.
+* **Optimized for Paper 1.21.11:** Developed on Java 21 with asynchronous handling where necessary to keep your server's Main Thread running smoothly with 20 TPS.
 
 ---
 
